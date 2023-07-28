@@ -1,0 +1,1 @@
+address = Blueprint("address", __name__)
